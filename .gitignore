@@ -1,0 +1,69 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/out_react/front/node_modules
+/out_react/front/.pnp
+/out_react/front/.pnp.js
+
+# testing
+/out_react/front/coverage
+
+# production
+/out_react/front/build
+
+# misc
+/out_react/front_clients/.DS_Store
+/out_react/front_clients/.env.local
+/out_react/front_clients/.env.development.local
+/out_react/front_clients/.env.test.local
+/out_react/front_clients/.env.production.local
+
+/out_react/front_clients/npm-debug.log*
+/out_react/front_clients/yarn-debug.log*
+/out_react/front_clients/yarn-error.log*
+
+
+# dependencies
+/out_react/front_producteurs/node_modules
+/out_react/front_producteurs/.pnp
+/out_react/front_producteurs/.pnp.js
+
+# testing
+/out_react/front_producteurs/coverage
+
+# production
+/out_react/front_producteurs/build
+
+# misc
+/out_react/front_producteurs/.DS_Store
+/out_react/front_producteurs/.env.local
+/out_react/front_producteurs/.env.development.local
+/out_react/front_producteurs/.env.test.local
+/out_react/front_producteurs/.env.production.local
+
+/out_react/front_producteurs/npm-debug.log*
+/out_react/front_producteurs/yarn-debug.log*
+/out_react/front_producteurs/yarn-error.log*
+
+
+# dependencies
+/out_react/front_restaurateur_version1/node_modules
+/out_react/front_restaurateur_version1/.pnp
+/out_react/front_restaurateur_version1/.pnp.js
+
+# testing
+/out_react/front_restaurateur_version1/coverage
+
+# production
+/out_react/front_restaurateur_version1/build
+
+# misc
+/out_react/front_restaurateur_version1/.DS_Store
+/out_react/front_restaurateur_version1/.env.local
+/out_react/front_restaurateur_version1/.env.development.local
+/out_react/front_restaurateur_version1/.env.test.local
+/out_react/front_restaurateur_version1/.env.production.local
+
+/out_react/front_restaurateur_version1/npm-debug.log*
+/out_react/front_restaurateur_version1/yarn-debug.log*
+/out_react/front_restaurateur_version1/yarn-error.log*
