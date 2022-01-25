@@ -36,3 +36,101 @@
     transform: rotate(360deg);
   }
 }
+
+
+.image-log-off{
+  height:20px;
+}
+
+.aaaaa{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100vh;
+}
+.aaaab{
+  width: 40vw;
+}
+.aaaac{
+  border:1px black solid;
+  height: 40vh;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20%;
+  border:1px green solid;
+}
+.aaaaj{
+  margin-top: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.aaaad{
+  width: 5em;
+}
+.aaaae{
+  margin: 2%;
+}
+.aaaaf{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin:1%;
+}
+.aaaag{
+  margin-left: 5%;
+}
+.aaaai{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-right: 4%;
+}
+.aaaak,.aaaal{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2%;
+}
+.aaaam,.aaaan{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
