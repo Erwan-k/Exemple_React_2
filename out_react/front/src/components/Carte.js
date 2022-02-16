@@ -24,7 +24,7 @@ const Carte = (props) => {
 						<Card.Body>
 							<Card.Title>{props.infos.user}</Card.Title>
 							<Card.Text>
-								Le mot de passe du fils, c'est : {props.infos.mdp}
+								Le mot est : {props.infos.mdp}
 							</Card.Text>
 						</Card.Body>
 					</div>
